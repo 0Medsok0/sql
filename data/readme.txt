@@ -1,4 +1,5 @@
 export and import data.
-1)файл с DDL,DML командами -- skillbox_data.sql
+
+1)файл с DDL,DML командами -- data.sql
 2) Рисунок 1. Проверка что данные были успешно импортированы в БД imp
 3) файл с командами -- document.txt
